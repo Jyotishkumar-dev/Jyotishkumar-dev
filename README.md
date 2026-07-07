@@ -1,7 +1,17 @@
-# Hi there, I'm Jyotish Kumar 👋 
+<h1 align="center">Hi 👋, I'm Jyotish Kumar</h1>
+<h3 align="center">
+AI/ML Enthusiast • Full Stack Developer • Problem Solver
+</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Developer;Java+%7C+Python+%7C+DSA;Always+Learning+New+Technologies+🚀" />
+</p>
 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Jyotishkumar-dev?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Jyotishkumar-dev?style=for-the-badge"/>
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jyotish_verma07?igsh=b3BmbDhyOHJ5aDQ4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyotish-kumar-0601bb387/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotishkumarjhar@gmail.com) 
 
@@ -22,15 +32,23 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student at SAGE University Indore (Powered by ALTA School of Technology)
+🎓 B.Tech Computer Science Student
 
-💻 Passionate about AI, Machine Learning, Full Stack Development, and Problem Solving.
+🏫 SAGE University Indore (Powered by ALTA School of Technology)
 
-🌱 Currently learning Data Structures & Algorithms, MERN Stack, Java, and System Design.
+💻 Passionate about AI, Machine Learning & Full Stack Development
 
-🎯 My goal is to become a Software Engineer at a top product-based company and contribute to impactful AI products.
+🌱 Currently learning
 
----
+- Java
+- Data Structures & Algorithms
+- MERN Stack
+- System Design
+- Machine Learning
+
+🎯 Goal
+
+Become a Software Engineer at a top product-based company and build impactful AI products.
 
 ## 🔭 I’m currently working on
 
@@ -62,96 +80,6 @@
 
 ---
 
-## 🤔 I’m looking for help with
 
-- Advanced System Design
-- Open Source Contributions
-- Backend Architecture
-- Machine Learning Deployment
 
----
 
-## 💬 Ask me about
-
-- Java
-- Python
-- DSA
-- MERN Stack
-- Git & GitHub
-- AI & Machine Learning
-- Data Science
-
----
-
-## 📫 How to reach me
-
-📧 Email: **jyotishkumarjhar@gmail.com**
-
-💼 LinkedIn:
-https://linkedin.com/in/jyotish-kumar-0601bb387
-
-🐙 GitHub:
-https://github.com/Jyotishkumar-dev
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-- Java
-- Python
-- C++
-- SQL
-- JavaScript
-
-**Frontend**
-
-- HTML
-- CSS
-- React.js
-
-**Backend**
-
-- Node.js
-- Express.js
-
-**Database**
-
-- MongoDB
-- MySQL
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Power BI
-
----
-
-## 📈 GitHub Stats
-
-![Jyotish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyotishkumar-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotishkumar-dev&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jyotishkumar-dev&theme=tokyonight)
-
----
-
-## 🏆 Goals for 2026
-
-- ✅ 500+ LeetCode Problems
-- ✅ Build 20+ Full Stack Projects
-- ✅ Contribute to Open Source
-- ✅ Master DSA
-- ✅ Learn AI & Machine Learning
-- ✅ Land a Software Engineering Internship
-
----
-
-## ⚡ Fun Fact
-
-I love turning ideas into real-world applications, solving coding challenges, and continuously learning new technologies.
