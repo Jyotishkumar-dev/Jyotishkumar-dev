@@ -17,7 +17,7 @@
 - 🚀 LeetCode Daily Challenge
 - 🌐 Full Stack (MERN) Projects
 - 🤖 AI & Machine Learning Projects
-- 📊 Data Science Portfolio
+- 📊 Personal Portfolio
 
 ---
 
