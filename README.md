@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jyotish Kumar</h1>
+
 <h3 align="center">
-AI/ML Enthusiast • Full Stack Developer • Problem Solver
+ AI/ML Enthusiast • Full Stack Developer • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Developer;Java+%7C+Python+%7C+DSA;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=0A66FF&center=true&vCenter=true&width=900&lines=🚀+AI%2FML+Enthusiast+•+Full+Stack+Developer+•+Problem+Solver;💙+Building+Projects+That+Matter;☕+Java+•+Python+•+MERN+•+AI;🎯+Learning+Something+New+Every+Day" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Jyotishkumar-dev?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Jyotishkumar-dev?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/Jyotishkumar-dev?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Jyotishkumar-dev?style=for-the-badge" />
 </p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jyotish_verma07?igsh=b3BmbDhyOHJ5aDQ4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyotish-kumar-0601bb387/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotishkumarjhar@gmail.com) 
 
@@ -29,57 +32,3 @@ AI/ML Enthusiast • Full Stack Developer • Problem Solver
 [![](https://komarev.com/ghpvc/?username=Jyotishkumar-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🚀 About Me
-
-🎓 B.Tech Computer Science Student
-
-🏫 SAGE University Indore (Powered by ALTA School of Technology)
-
-💻 Passionate about AI, Machine Learning & Full Stack Development
-
-🌱 Currently learning
-
-- Java
-- Data Structures & Algorithms
-- MERN Stack
-- System Design
-- Machine Learning
-
-🎯 Goal
-
-Become a Software Engineer at a top product-based company and build impactful AI products.
-
-## 🔭 I’m currently working on
-
-- 🚀 LeetCode Daily Challenge
-- 🌐 Full Stack (MERN) Projects
-- 🤖 AI & Machine Learning Projects
-- 📊 Personal Portfolio
-
----
-
-## 🌱 I’m currently learning
-
-- Java
-- Data Structures & Algorithms
-- MERN Stack
-- Python for AI & ML
-- SQL
-- System Design
-- Git & GitHub
-
----
-
-## 👯 I’m looking to collaborate on
-
-- Open Source Projects
-- AI/ML Projects
-- Full Stack Web Applications
-- Hackathons
-
----
-
-
-
-
