@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=200&section=header&text=Jyotish%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Products%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20(Java)&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=200&section=header&text=JYOTISH%20KUMAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Products%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20(Java)&descAlignY=55&descSize=16"/>
 </p>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Product+Engineer+Enthusiast;B.Tech+CST+Student;Problem+Solver" alt="Typing SVG" />
 </h3>
+<p align="center">
+  🎓 B.Tech Computer Science Student @ SAGE University Indore, Powered by ALTA School of Technology
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&icon=0&color=0" alt="Profile views"/>
   <a href="https://linkedin.com/in/jyotish-kumar-0601bb387" target="_blank">
@@ -13,27 +16,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  🎓 B.Tech Computer Science Student @ SAGE University Indore, powered by ALTA School of Technology
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&icon=0&color=0" alt="Profile views"/>
-  <a href="https://linkedin.com/in/jyotish-kumar-0601bb387" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jyotishkumarjhar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
 
 ### 💻 Tech Stack
 
@@ -94,9 +76,11 @@
 
 ### 👨‍💻 About Me
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, and Software Engineering**.
+🎓 **B.Tech Computer Science Student** at **SAGE University Indore**, powered by **ALTA School of Technology**.
 
-🌱 Continuously enhancing my skills in **Data Structures & Algorithms, Java, TypeScript, MERN Stack, System Design, and AI/ML**.
+💡 Building AI products — exploring **GenAI**, **AI Agents**, and applied **Machine Learning**.
+
+🌱 Sharpening core fundamentals with **DSA in Java** while shipping full stack projects on the **MERN stack**.
 
 🎯 Aspiring to build scalable, real-world software solutions and secure a Software Engineering role at a leading product-based company.
 
@@ -107,21 +91,20 @@
 <td valign="top" width="50%">
 
 #### 🚀 What I'm Working On
-- 💻 Solving **LeetCode** problems to strengthen problem-solving skills
+- 🤖 **GenAI** experiments and **AI Agent** workflows
+- 💻 Solving **LeetCode** problems in Java to strengthen DSA
 - 🌐 Building scalable **Full Stack (MERN)** applications
-- 🤖 Developing **AI & Machine Learning** projects
 - 📂 Expanding my **developer portfolio** with real-world projects
 
 </td>
 <td valign="top" width="50%">
 
 #### 📚 Currently Learning
-- ☕ Java & Object-Oriented Programming
-- 🧩 Data Structures & Algorithms
+- 🤖 GenAI & AI Agent frameworks
+- 🧩 Data Structures & Algorithms (Java)
 - 🟦 TypeScript
 - ⚛️ MERN Stack Development
 - 🐍 Python for AI & Machine Learning
-- 🗄️ SQL & Database Design
 - 🏗️ System Design Fundamentals
 
 </td>
@@ -129,8 +112,8 @@
 </table>
 
 #### 🤝 Open to Collaborate On
+- 🤖 GenAI & AI Agent Projects
 - 🚀 Open Source Projects
-- 🤖 AI & Machine Learning Applications
 - 🌐 Full Stack Web Development
 - 💡 Innovative Hackathon Projects
 - 👨‍💻 Developer Communities & Technical Events
@@ -155,6 +138,9 @@
 </p>
 
 ---
+
+
+
 
 <p align="center"><i>Thanks for stopping by — always happy to connect and collaborate!</i></p>
 
