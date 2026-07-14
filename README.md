@@ -1,4 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jyotish Kumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=200&section=header&text=Jyotish%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Products%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20(Java)&descAlignY=55&descSize=16"/>
+</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&icon=0&color=0" alt="Profile views"/>
+  <a href="https://linkedin.com/in/jyotish-kumar-0601bb387" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jyotishkumarjhar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
