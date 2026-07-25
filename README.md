@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=200&section=header&text=JYOTISH%20KUMAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Products%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20(Java)&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=200&section=header&text=JYOTISH%20KUMAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-powerd%20Products%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20(Java)&descAlignY=55&descSize=16"/>
 </p>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Product+Engineer+Enthusiast;B.Tech+CST+Student;Problem+Solver" alt="Typing SVG" />
@@ -9,7 +9,7 @@
   🎓 B.Tech Computer Science Student @ SAGE University Indore, Powered by ALTA School of Technology
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&icon=0&color=0" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Jyotishkumar-dev&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
   <a href="https://linkedin.com/in/jyotish-kumar-0601bb387" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
