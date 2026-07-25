@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=200&section=header&text=JYOTISH%20KUMAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Products%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20(Java)&descAlignY=55&descSize=16"/>
 </p>
