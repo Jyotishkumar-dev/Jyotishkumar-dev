@@ -79,9 +79,9 @@
 
 🎓 **B.Tech Computer Science Student** at **SAGE University Indore**, powered by **ALTA School of Technology**.
 
-💡 Building AI products — exploring **GenAI**, **AI Agents**, and applied **Machine Learning**.
+💡 Building AI-powerd products — exploring **GenAI**, **AI Agents**, and applied **Machine Learning**.
 
-🌱 Sharpening core fundamentals with **DSA in Java** while shipping full stack projects on the **MERN stack**.
+🌱 Sharpening core fundamentals with **DSA in Java** while shipping full-stack projects on the **MERN stack**.
 
 🎯 Aspiring to build scalable, real-world software solutions and secure a Software Engineering role at a leading product-based company.
 
