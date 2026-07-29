@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=200&section=header&text=JYOTISH%20KUMAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-powerd%20Products%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20(Java)&descAlignY=55&descSize=16"/>
 </p>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Product+Engineer+Enthusiast;B.Tech+CST+Student;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Product+Engineer+Enthusiast;B.Tech+CST+Student;Problem+Solver" alt="Typing SVG" />
 </h3>
 <p align="center">
   🎓 B.Tech Computer Science Student @ SAGE University Indore, Powered by ALTA School of Technology
